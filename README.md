@@ -1,4 +1,4 @@
 # demo-rep
 First GitHub repository
 <br>
-Author - Nitish Jha
+Author - Nitish 
